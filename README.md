@@ -3,5 +3,5 @@ competition
 
 **competition** is a repository for submissions on competitive programming.
 
-- [TopCoder](http://community.topcoder.com/tc?module=MemberProfile&cr=40094963)
+- [TopCoder](https://www.topcoder.com/members/etheriqa/details/?track=DATA_SCIENCE&subTrack=SRM)
 - [Codeforces](http://codeforces.com/profile/etheriqa)
